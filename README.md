@@ -1,14 +1,6 @@
 ### Hi there 👋, I'm Oliver
 
-- 🔭 I’m currently working on an **Image Classification App**
-- 🌱 I’m currently learning **Tensorflow**
-- 💬 Ask me about **new tech and data science**
-- 📫 How to reach me: [My Personal Website](oliverkpan.github.io)
-- :heavy_check_mark: Check out my **contributions**
-
-![Oliver's Github Statistics](https://github-readme-stats.vercel.app/api?username=oliverkpan&show_icons=true&theme=radical) 
-
-#### 
+![](https://github.com/oliverkpan/oliverkpan/blob/master/profile_vid.gif)
 
 Thanks for checking out my [profile](https://github.com/oliverkpan)! I am a business and computer science student by day, data enthusiast by night. 
 
@@ -21,4 +13,12 @@ Please contact me on [LinkedIn](https://www.linkedin.com/in/oliverpan/) or visit
 Yours Sincerely,
 
 **Oliver Pan**
+
+- 🔭 I’m currently working on an **Image Classification App**
+- 🌱 I’m currently learning **Tensorflow**
+- 💬 Ask me about **new tech and data science**
+- 📫 How to reach me: [My Personal Website](oliverkpan.github.io)
+- :heavy_check_mark: Check out my **contributions**
+
+![Oliver's Github Statistics](https://github-readme-stats.vercel.app/api?username=oliverkpan&show_icons=true&theme=radical) 
 
