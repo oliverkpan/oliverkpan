@@ -17,3 +17,5 @@ Yours Sincerely,
 
 ![Oliver's Github Statistics](https://github-readme-stats.vercel.app/api?username=oliverkpan&show_icons=true&theme=radical) 
 
+![Profile Views](https://gpvc.arturio.dev/oliverkpan)
+
