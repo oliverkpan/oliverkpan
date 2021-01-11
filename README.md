@@ -2,6 +2,8 @@
 
 ![](https://github.com/oliverkpan/oliverkpan/blob/master/profile_vid.gif)
 
+### Thank you for checking out my profile!
+
 #### Current Experience
 - :school_satchel: Third Year **Statistics** & **Business** Student at the University of Toronto
 - :raising_hand: Teaching Assistant at the University of Toronto
@@ -20,6 +22,8 @@
 - [LinkedIn](https://www.linkedin.com/in/oliverpan/)
 - [Website](http://oliverkpan.com/)
 - [Github](https://github.com/oliverkpan)
+
+
 
 Yours Sincerely,
 
