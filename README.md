@@ -22,6 +22,7 @@
 - [LinkedIn](https://www.linkedin.com/in/oliverpan/)
 - [Website](http://oliverkpan.com/)
 - [Github](https://github.com/oliverkpan)
+- [Resume](https://github.com/oliverkpan/oliverkpan.github.io/blob/master/files/OliverPanResume.pdf)
 
 
 
