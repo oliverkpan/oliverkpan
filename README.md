@@ -5,17 +5,18 @@
 ### Thank you for checking out my profile!
 
 #### Current Experience
-- :school_satchel: Third Year **Statistics** & **Business** Student at the University of Toronto
+- :school_satchel: Third Year **Statistics** & **Finance** Student at the University of Toronto
 - :raising_hand: Teaching Assistant at the University of Toronto
 
 #### Former Experience
+- :heavy_exclamation_mark: Incoming Data Science Intern @ [CIBC Data Studio](https://www.cibc.com/ca/features/cibc-data-studio.html)
 - :white_check_mark: Data Management Operations Intern @ [Ontario Teachers' Pension Plan](https://www.otpp.com/)
 - :white_check_mark: Data Science Intern @ [Royal Canin](https://www.royalcanin.com/ca/en_ca)
-- :white_check_mark: Data Analyst Intern @ [Cardswap](www.cardswap.ca)
+- :white_check_mark: Data Analyst Intern @ [CardSwap](www.cardswap.ca)
 
 #### About Me
 - :baseball: Crazy Sports Fanatic
-- :chart_with_upwards_trend: Aspiring Data Scientist
+- :chart_with_upwards_trend: Aspiring Data Scientist/Data Engineer
 - :dog: Dog Lover
 
 #### Let's Connect
