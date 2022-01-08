@@ -9,14 +9,15 @@
 - :raising_hand: Teaching Assistant at the University of Toronto
 
 #### Professional Experience
-- :white_check_mark: Data Science Intern @ [CIBC Data Studio](https://www.cibc.com/ca/features/cibc-data-studio.html)
-- :white_check_mark: Data Management Operations Intern @ [Ontario Teachers' Pension Plan](https://www.otpp.com/)
-- :white_check_mark: Data Science Intern @ [Royal Canin](https://www.royalcanin.com/ca/en_ca)
-- :white_check_mark: Data Analyst Intern @ [CardSwap](www.cardswap.ca)
+- :large_blue_diamond: Data Science Intern @ [Shopify](https://www.shopify.ca/) (Winter 2022)
+- :white_check_mark: Data Science Intern @ [CIBC Data Studio](https://www.cibc.com/ca/features/cibc-data-studio.html) (Summer 2021)
+- :white_check_mark: Data Management Operations Intern @ [Ontario Teachers' Pension Plan](https://www.otpp.com/) (Fall 2020)
+- :white_check_mark: Data Science Intern @ [Royal Canin](https://www.royalcanin.com/ca/en_ca) (Summer 2020)
+- :white_check_mark: Data Analyst Intern @ [CardSwap](www.cardswap.ca) (Fall 2019)
 
 #### About Me
 - :baseball: Crazy Sports Fanatic
-- :chart_with_upwards_trend: Aspiring Data Scientist/Data Engineer
+- :chart_with_upwards_trend: Aspiring Data Scientist/ML Engineer
 - :dog: Dog Lover
 
 #### Let's Connect
