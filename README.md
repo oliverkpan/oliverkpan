@@ -9,7 +9,7 @@
 - :raising_hand: Teaching Assistant at the University of Toronto
 
 #### Professional Experience
-- :large_blue_diamond: Data Engineer Intern @ [Shopify](https://www.shopify.ca/) (Summer 2022)
+- :white_check_mark: Data Engineer Intern @ [Shopify](https://www.shopify.ca/) (Summer 2022)
 - :white_check_mark: Data Science Intern @ [Shopify](https://www.shopify.ca/) (Winter 2022)
 - :white_check_mark: Data Science Intern @ [CIBC Data Studio](https://www.cibc.com/ca/features/cibc-data-studio.html) (Summer 2021)
 - :white_check_mark: Data Management Operations Intern @ [Ontario Teachers' Pension Plan](https://www.otpp.com/) (Fall 2020)
