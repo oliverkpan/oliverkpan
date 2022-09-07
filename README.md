@@ -5,7 +5,7 @@
 ### Thank you for checking out my profile!
 
 #### Education
-- :school_satchel: Fourth Year **Statistics** & **Finance** Student at the University of Toronto
+- :school_satchel: Fifth Year **Statistics** & **Finance** Student at the University of Toronto
 - :raising_hand: Teaching Assistant at the University of Toronto
 
 #### Professional Experience
